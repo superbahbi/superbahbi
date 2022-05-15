@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💻 I'm a aspiring full stack web developer
+- 💻 I'm an aspiring full stack web developer
 - 🔭 I’m currently working as Cellar Master in San Luis Obispo
 - 🌱 I’m currently learning Typescript
 - 🌐 You can see my some of my projects on [my portfolio](https://github.com/superbahbi?tab=repositories)
