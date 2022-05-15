@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Wordle clone
+- 💻 I'm a aspiring full stack web developer
+- 🔭 I’m currently working as Cellar Master in San Luis Obispo
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: @bahbilee
+- 🌐 You can see my some of my projects on [my portfolio](https://github.com/superbahbi?tab=repositories)
+- 📫 How to reach me: [@bahbilee](https://twitter.com/bahbilee)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=superbahbi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
