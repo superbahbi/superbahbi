@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/1689092/172072160-44a3c752-08a0-4d8c-a743-1bb3b1f0da82.png"/>
+<img src="https://user-images.githubusercontent.com/1689092/172072785-ba7a7f69-b232-4676-a2ea-2cc40faf75be.png"/>
 <br>
+
 <h4 align="center">
    Hi there👋, I am Robert Kugler, an aspiring full stack developer 💻, currently working in the wine industry as Cellar Master in San Luis Obispo 🔭. I’m currently learning Typescript, React, and React Native 🌱. You can see my some of my projects on my repositories. 🌐 <br> You can reach me using the links below. 📫
 </h4>
