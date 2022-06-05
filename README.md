@@ -5,6 +5,54 @@
 - 🌐 You can see my some of my projects on [my portfolio](https://github.com/superbahbi?tab=repositories)
 - 📫 How to reach me: [@bahbilee](https://twitter.com/bahbilee)
 
+
+<h2 align="left"><img src="" height=30px>Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Twitter Clone</h3>
+<div align="center">  
+<a href='https://twitter.netlify.app/' target=_"blank">
+<img src="" alt="Twitter Clone" height="100%" width="100%"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/superbahbi/twitter-" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://twitter.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-purple?style=for-the-badge&color=3C005A"/>
+</a>
+</p>
+<p><strong>React, CSS3, HTML5</strong> — A twitter clone written in Mongodb, Express, React, and Node js.</p>
+</div>
+</td>
+    
+    
+<td width="50%">
+  <h3 align="center" color="white">Corkify</h3>
+<div align="center">  
+<a href='' target=_"blank">
+<img src="" alt="Corkify" height="100%" width="100%"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/superbahbi/twitter-" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/-website-purple?style=for-the-badge&color=3C005A"/>
+</a>
+</p>
+<p><strong>React Native, Firebase</strong> — A flash wine sale app written in React Native, Expo, and Firebase.</p>
+</div>
+  </td>
+</table>
+
+
 <h2 align="left"><img src="" height=30px>Metrics & Analytics</h2>
 <div align="center">
 <table>
@@ -17,7 +65,7 @@
 </table>
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=3C005A&line=3C005A&point=999c9e&hide_border=true&title_color=">
-  
+
   
  <h2 align="left"><img src="" height=30px>Technical Skills</h2>
 <p align="center">
@@ -28,6 +76,7 @@
 <img src="https://img.shields.io/badge/Express.js-3C005A?style=for-the-badge&logo=express&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/React.js-3C005A?style=for-the-badge&logo=react&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/Node.js-3C005A?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Firebase-3C005A?style=for-the-badge&logo=firebase&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/GIT-3C005A?style=for-the-badge&logo=git&logoColor=white" height=30>
 </p>
 
