@@ -68,7 +68,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=superbahbi&hide_border=true&background=FFFFFF00&fire=e25822&currStreakLabel=999c9e&ring=9b69b4&currStreakNum=999c9e&sideNums=9b69b4&sideLabels=999c9e&dates=999c9e&stroke=9b69b4">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=superbahbi&bg_color=FFFFFF00&hide_border=true&text_color=9b69b4&title_color=9b69b4&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=superbahbi&bg_color=FFFFFF00&hide_border=true&text_color=999c9e&title_color=9b69b4&include_all_commits=true&count_private=true">
 </table>
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=999c9e&line=9b69b4&point=9b69b4&hide_border=true&title_color=999c9e">
