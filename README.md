@@ -1,15 +1,10 @@
-### Hi there 👋
-- 💻 I'm an aspiring full stack web developer
-- 🔭 I’m currently working as Cellar Master in San Luis Obispo
-- 🌱 I’m currently learning Typescript
-- 🌐 You can see my some of my projects on [my portfolio](https://github.com/superbahbi?tab=repositories)
-- 📫 How to reach me: [@bahbilee](https://twitter.com/bahbilee)
-<br>
-<br>
-<br>
-<br>
 <img src="https://user-images.githubusercontent.com/1689092/172072160-44a3c752-08a0-4d8c-a743-1bb3b1f0da82.png"/>
+<br>
+<h4 align="center">
+   Hi there👋, I am Robert Kugler, an aspiring full stack developer 💻, currently working in the wine industry as Cellar Master in San Luis Obispo 🔭. I’m currently learning Typescript, React, and React Native 🌱. You can see my some of my projects on my repositories. 🌐 <br> You can reach me using the links below. 📫
+</h4>
 
+<br>
 <p align="center">
 <a href="https://twitter.com/bahbilee"><img src="https://img.shields.io/badge/@bahbilee-3C005A?&style=for-the-badge&logo=twitter&logoColor=white" height=27 target="_blank"></a>
 <a href="mailto:superbahbi@gmail.com"><img src="https://img.shields.io/badge/superbahbi@gmail.com-3C005A?style=for-the-badge&logo=gmail&logoColor=white" height=27 target="_blank"></a>
