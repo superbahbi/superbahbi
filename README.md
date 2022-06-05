@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/1689092/172070521-5bf6ab76-392b-4a1c-83e1-2563264173cc.png"/>
+<img src="https://user-images.githubusercontent.com/1689092/172072160-44a3c752-08a0-4d8c-a743-1bb3b1f0da82.png"/>
 
 <p align="center">
 <a href="https://twitter.com/bahbilee"><img src="https://img.shields.io/badge/@bahbilee-3C005A?&style=for-the-badge&logo=twitter&logoColor=white" height=27 target="_blank"></a>
@@ -70,13 +70,13 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=superbahbi&hide_border=true&background=FFFFFF00&fire=3C005A&currStreakLabel=3C005A&ring=3C005A&currStreakNum=3C005A&sideNums=3C005A&sideLabels=3C005A&dates=999c9e&stroke=3C005A">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=superbahbi&hide_border=true&background=FFFFFF00&fire=e25822&currStreakLabel=999c9e&ring=9b69b4&currStreakNum=999c9e&sideNums=9b69b4&sideLabels=999c9e&dates=999c9e&stroke=9b69b4">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=superbahbi&bg_color=FFFFFF00&hide_border=true&text_color=3C005A&title_color=3C005A&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=superbahbi&bg_color=FFFFFF00&hide_border=true&text_color=9b69b4&title_color=9b69b4&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=3C005A&line=3C005A&point=999c9e&hide_border=true&title_color=">
+<img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=999c9e&line=9b69b4&point=9b69b4&hide_border=true&title_color=999c9e">
 
   
  <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Technical Skills</h2>
