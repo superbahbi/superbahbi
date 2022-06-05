@@ -15,7 +15,8 @@
 <a href=""><img src="https://img.shields.io/badge/Download_Resume-3C005A?style=for-the-badge&logo=googledrive&logoColor=white" height=27 target="_blank"></a>
 </p>
 
-<h2 align="left"><img src="" height=30px>Projects</h2>
+
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Projects</h2>
 
 <table>
 <tr>
@@ -62,7 +63,7 @@
 </table>
 
 
-<h2 align="left"><img src="" height=30px>Metrics & Analytics</h2>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Metrics & Analytics</h2>
 <div align="center">
 <table>
 <tr>
@@ -76,7 +77,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=3C005A&line=3C005A&point=999c9e&hide_border=true&title_color=">
 
   
- <h2 align="left"><img src="" height=30px>Technical Skills</h2>
+ <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-3C005A?style=for-the-badge&logo=html5&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/CSS3-3C005A?style=for-the-badge&logo=css3&logoColor=white" height=30>
@@ -89,9 +90,10 @@
 <img src="https://img.shields.io/badge/GIT-3C005A?style=for-the-badge&logo=git&logoColor=white" height=30>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=superbahbi&label=Profile%20views&color=3C005A&style=for-the-badge&logo=profile&logoColor=white_" alt="lizx-i" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=superbahbi&label=Profile%20views&color=3C005A&style=for-the-badge&logo=profile&logoColor=white_" alt="superbahbi" /> </p>
 <!--
-**superbahbi/superbahbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**superbahbi/superbahbi** is a ✨ _special_ ✨ repository because its `README.md` (this file)
+ appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
