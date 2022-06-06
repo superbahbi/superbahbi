@@ -204,10 +204,10 @@
 <img src="https://img.shields.io/badge/HTML5-3C005A?style=for-the-badge&logo=html5&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/CSS3-3C005A?style=for-the-badge&logo=css3&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/JavaScript-3C005A?style=for-the-badge&logo=javascript&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/MongoDB-3C005A?style=for-the-badge&logo=mongodb&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Node.js-3C005A?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/Express.js-3C005A?style=for-the-badge&logo=express&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/React.js-3C005A?style=for-the-badge&logo=react&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/Node.js-3C005A?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/MongoDB-3C005A?style=for-the-badge&logo=mongodb&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/Firebase-3C005A?style=for-the-badge&logo=firebase&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/GIT-3C005A?style=for-the-badge&logo=git&logoColor=white" height=30>
 </p>
