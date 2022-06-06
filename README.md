@@ -28,7 +28,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Twitter Clone Web</h3>
       <div align="center">  
          <a href='https://twitter.bahbi.net' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/1689092/172078710-fe2bd8e0-4aac-4324-889c-3a120bc48aa2.jpg" alt="Twitter Clone" height="200px"/>
+            <img src="https://user-images.githubusercontent.com/1689092/172078710-fe2bd8e0-4aac-4324-889c-3a120bc48aa2.jpg" alt="Twitter Clone" width="80%"/>
          </a>
          <br>
          <br>
@@ -48,7 +48,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Twitter Clone Server</h3>
       <div align="center">  
          <a href="https://github.com/superbahbi/twitter-clone-server" target=_"blank">
-            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-server" alt="Twitter Clone Server" height="200px"/>
+            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-server" alt="Twitter Clone Server" width="80%"/>
          </a>
          <br>
          <br>
@@ -69,7 +69,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Twitter Clone App</h3>
       <div align="center">  
          <a href='' target=_"blank">
-            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-app" alt="Twitter Clone" height="200px"/>
+            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-app" alt="Twitter Clone" width="80%"/>
          </a>
          <br>
          <br>
@@ -89,7 +89,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Corkify</h3>
       <div align="center">  
          <a href="https://github.com/superbahbi/Corkify" target=_"blank">
-            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/corkify" alt="Corkify" height="200px"/>
+            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/corkify" alt="Corkify" width="80%"/>
          </a>
          <br>
          <br>
@@ -110,7 +110,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Wordle</h3>
       <div align="center">  
          <a href='https://wordle.bahbi.net' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/1689092/172081613-e0d97902-c439-454c-a9aa-a791335b7ac1.jpg" alt="wordle" height="200px"/>
+            <img src="https://user-images.githubusercontent.com/1689092/172081613-e0d97902-c439-454c-a9aa-a791335b7ac1.jpg" alt="wordle" width="80%"/>
          </a>
          <br>
          <br>
@@ -130,7 +130,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Memory Game</h3>
       <div align="center">  
          <a href="https://github.com/superbahbi/barbarian-memory" target=_"blank">
-            <img src="https://user-images.githubusercontent.com/1689092/172082326-b8a3e4ad-0cb7-41da-b8e4-f51cb9f52e01.jpg" alt="barbarian-memory" height="200px"/>
+            <img src="https://user-images.githubusercontent.com/1689092/172082326-b8a3e4ad-0cb7-41da-b8e4-f51cb9f52e01.jpg" alt="barbarian-memory" width="80%"/>
          </a>
          <br>
          <br>
@@ -151,7 +151,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Playlistify</h3>
       <div align="center">  
          <a href='https://playlistify.bahbi.net' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/1689092/172082897-a9f5b0b4-a0f8-4562-a077-2e08bf62ea86.jpg" alt="playlistify" height="200px"/>
+            <img src="https://user-images.githubusercontent.com/1689092/172082897-a9f5b0b4-a0f8-4562-a077-2e08bf62ea86.jpg" alt="playlistify" width="80%"/>
          </a>
          <br>
          <br>
@@ -172,7 +172,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Portfolio</h3>
       <div align="center">  
          <a href="https://github.com/superbahbi/portfolio" target=_"blank">
-            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/portfolio" alt="portfolio" height="200px"/>
+            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/portfolio" alt="portfolio" width="80%"/>
          </a>
          <br>
          <br>
