@@ -54,7 +54,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Javascript</strong> — A backend service for twitter clone web and app, written in nodejs, expressjs, mongodb.</p>
+         <p><strong>Nodejs</strong> — A backend service for twitter clone web and app, written in nodejs, expressjs, mongodb.</p>
       </div>
    </td>
    </tr>
