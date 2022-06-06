@@ -18,45 +18,45 @@
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center" color="white">Twitter Clone</h3>
-<div align="center">  
-<a href='https://twitter.bahbi.net' target=_"blank">
-<img src="https://user-images.githubusercontent.com/1689092/172078710-fe2bd8e0-4aac-4324-889c-3a120bc48aa2.jpg" alt="Twitter Clone" height="200px"/>
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/superbahbi/twitter-clone-web" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://twitter.bahbi.net" target="_blank">
-<img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
-</a>
-</p>
-<p><strong>React, CSS3, HTML5</strong> — A twitter clone written in Mongodb, Express, React, and Node js.</p>
-</div>
-</td>
-
-<td width="50%">
-  <h3 align="center" color="white">Twitter Clone Backend</h3>
-<div align="center">  
-<a href='' target=_"blank">
-<img src="https://user-images.githubusercontent.com/1689092/172078323-d0bd2004-3bf2-49bd-bb4c-b5a4b52fcbf0.png" alt="Twitter Clone Backend" height="200px" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/superbahbi/twitter-clone-server" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://twitter-clone-server2.herokuapp.com" target="_blank">
-<img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
-</a>
-</p>
-<p><strong>React Native, Firebase</strong> — A flash wine sale app written in React Native, Expo, and Firebase.</p>
-</div>
-  </td>
+   <td width="50%">
+      <h3 align="center" color="white">Twitter Clone</h3>
+      <div align="center">  
+         <a href='https://twitter.bahbi.net' target=_"blank">
+            <img src="https://user-images.githubusercontent.com/1689092/172078710-fe2bd8e0-4aac-4324-889c-3a120bc48aa2.jpg" alt="Twitter Clone" height="200px"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/superbahbi/twitter-clone-web" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://twitter.bahbi.net" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>React, CSS3, HTML5</strong> — A twitter clone built in reactjs framework using mongodb database and cloudinary storage.</p>
+      </div>
+   </td>
+   
+   <td width="50%">
+      <h3 align="center" color="white">Twitter Clone Server</h3>
+      <div align="center">  
+         <a href="https://github.com/superbahbi/twitter-clone-server" target=_"blank">
+            <img src="https://user-images.githubusercontent.com/1689092/172078323-d0bd2004-3bf2-49bd-bb4c-b5a4b52fcbf0.png" alt="Twitter Clone Server" height="200px"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/superbahbi/twitter-clone-server" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://twitter-clone-server2.herokuapp.com" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>Javascript</strong> — A backend service for twitter clone web and app, written in nodejs, expressjs, mongodb.</p>
+      </div>
+   </td>
 </table>
 
 
