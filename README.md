@@ -62,13 +62,13 @@
    <td width="50%">
       <h3 align="center" color="white">Twitter Clone App</h3>
       <div align="center">  
-         <a href='https://twitter.bahbi.net' target=_"blank">
+         <a href='' target=_"blank">
             <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-app" alt="Twitter Clone" height="200px"/>
          </a>
          <br>
          <br>
          <p>
-            <a href="https://github.com/superbahbi/twitter-clone-web" target="_blank">
+            <a href="https://github.com/superbahbi/twitter-clone-app" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://twitter.bahbi.net" target="_blank">
