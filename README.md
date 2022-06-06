@@ -19,7 +19,7 @@
 <table>
 <tr>
    <td width="50%">
-      <h3 align="center" color="white">Twitter Clone</h3>
+      <h3 align="center" color="white">Twitter Clone Web</h3>
       <div align="center">  
          <a href='https://twitter.bahbi.net' target=_"blank">
             <img src="https://user-images.githubusercontent.com/1689092/172078710-fe2bd8e0-4aac-4324-889c-3a120bc48aa2.jpg" alt="Twitter Clone" height="200px"/>
@@ -42,7 +42,7 @@
       <h3 align="center" color="white">Twitter Clone Server</h3>
       <div align="center">  
          <a href="https://github.com/superbahbi/twitter-clone-server" target=_"blank">
-            <img src="https://user-images.githubusercontent.com/1689092/172078323-d0bd2004-3bf2-49bd-bb4c-b5a4b52fcbf0.png" alt="Twitter Clone Server" height="200px"/>
+            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-server" alt="Twitter Clone Server" height="200px"/>
          </a>
          <br>
          <br>
@@ -57,6 +57,48 @@
          <p><strong>Javascript</strong> — A backend service for twitter clone web and app, written in nodejs, expressjs, mongodb.</p>
       </div>
    </td>
+   </tr>
+   <tr>
+   <td width="50%">
+      <h3 align="center" color="white">Twitter Clone App</h3>
+      <div align="center">  
+         <a href='https://twitter.bahbi.net' target=_"blank">
+            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-app" alt="Twitter Clone" height="200px"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/superbahbi/twitter-clone-web" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://twitter.bahbi.net" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>React Native</strong> — A twitter clone built in react native framework using mongodb database and cloudinary storage.</p>
+      </div>
+   </td>
+   
+   <td width="50%">
+      <h3 align="center" color="white">Corkify</h3>
+      <div align="center">  
+         <a href="https://github.com/superbahbi/Corkify" target=_"blank">
+            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/corkify" alt="Corkify" height="200px"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/superbahbi/corkify" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>React Native</strong> — A wine flash store built in react native framework using firebase auth, real time database, and storage.</p>
+      </div>
+   </td>
+   </tr>
 </table>
 
 
