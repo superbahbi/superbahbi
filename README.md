@@ -99,6 +99,47 @@
       </div>
    </td>
    </tr>
+      <tr>
+   <td width="50%">
+      <h3 align="center" color="white">Wordle</h3>
+      <div align="center">  
+         <a href='https://wordle.bahbi.net' target=_"blank">
+            <img src="https://user-images.githubusercontent.com/1689092/172081613-e0d97902-c439-454c-a9aa-a791335b7ac1.jpg" alt="wordle" height="200px"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/superbahbi/wordle" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://twitter.bahbi.net" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>Reactjs</strong> — A worlde clone built in react framework.</p>
+      </div>
+   </td>
+   
+   <td width="50%">
+      <h3 align="center" color="white">Memory Game</h3>
+      <div align="center">  
+         <a href="https://github.com/superbahbi/barbarian-memory" target=_"blank">
+            <img src="https://user-images.githubusercontent.com/1689092/172082326-b8a3e4ad-0cb7-41da-b8e4-f51cb9f52e01.jpg" alt="barbarian-memory" height="200px"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/superbahbi/barbarian-memory" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://memory.bahbi.net" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>Reactjs</strong> — A game built in reactjs. Match and win the game.</p>
+      </div>
+   </td>
+   </tr>
 </table>
 
 
