@@ -112,7 +112,7 @@
             <a href="https://github.com/superbahbi/wordle" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://twitter.bahbi.net" target="_blank">
+            <a href="https://wordle.bahbi.net" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
