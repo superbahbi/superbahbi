@@ -22,7 +22,7 @@
 <h3 align="center" color="white">Twitter Clone</h3>
 <div align="center">  
 <a href='https://twitter.netlify.app/' target=_"blank">
-<img src="" alt="Twitter Clone" height="100%" width="100%"/>
+<img src="https://user-images.githubusercontent.com/1689092/172077483-aa384dea-67f0-453a-ab76-e66a1a6601a3.png" alt="Twitter Clone" height="100%" width="100%"/>
 </a>
 <br>
 <br>
