@@ -140,6 +140,48 @@
       </div>
    </td>
    </tr>
+         <tr>
+   <td width="50%">
+      <h3 align="center" color="white">Playlistify</h3>
+      <div align="center">  
+         <a href='https://playlistify.bahbi.net' target=_"blank">
+            <img src="https://user-images.githubusercontent.com/1689092/172082897-a9f5b0b4-a0f8-4562-a077-2e08bf62ea86.jpg" alt="playlistify" height="200px"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/superbahbi/playlistify" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://playlistify.bahbi.net" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>Reactjs</strong> — A spotify app built in react framework.</p>
+      </div>
+   </td>
+
+   
+   <td width="50%">
+      <h3 align="center" color="white">Portfolio</h3>
+      <div align="center">  
+         <a href="https://github.com/superbahbi/portfolio" target=_"blank">
+            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/portfolio" alt="portfolio" height="200px"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/superbahbi/portfolio" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://bahbi.net" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>Reactjs</strong> — portfolio.</p>
+      </div>
+   </td>
+   </tr>
 </table>
 
 
