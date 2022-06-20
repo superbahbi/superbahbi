@@ -6,14 +6,13 @@ Hi there 👋<br>
 💻 I'm Robert Kugler, an aspiring full stack web developer<br>
 🔭 I’m currently working in the wine industry as Cellar Master in San Luis Obispo<br>
 🌱 I’m currently learning Typescript, React, and React Native<br>
-🌐 You can see my some of my projects on [my portfolio](https://github.com/superbahbi?tab=repositories)<br>
+   🌐 You can see my some of my projects on <a href="https://github.com/superbahbi?tab=repositories">repositories</a><br>
 📫 You can reach me using the links below.<br>
 </p>
 
 
 <br>
 <p align="center">
-<a href="https://twitter.com/bahbilee"><img src="https://img.shields.io/badge/@bahbilee-326789?&style=for-the-badge&logo=twitter&logoColor=white" height=27 target="_blank"></a>
 <a href="mailto:superbahbi@gmail.com"><img src="https://img.shields.io/badge/superbahbi@gmail.com-326789?style=for-the-badge&logo=gmail&logoColor=white" height=27 target="_blank"></a>
 <a href="https://www.linkedin.com/in/robertleekugler/"><img src="https://img.shields.io/badge/robertleekugler-326789?style=for-the-badge&logo=linkedin&logoColor=white_" height=27 target="_blank"></a>
 <a href="https://github.com/superbahbi/superbahbi/files/8936775/Robert_Kugler_Resume_19-06-2022-18-02-09.pdf"><img src="https://img.shields.io/badge/Download_Resume-326789?style=for-the-badge&logo=googledrive&logoColor=white" height=27 target="_blank"></a>
