@@ -16,10 +16,10 @@ Hi there 👋<br>
 
 <br>
 <p align="center">
-<a href="https://twitter.com/bahbilee"><img src="https://img.shields.io/badge/@bahbilee-3C005A?&style=for-the-badge&logo=twitter&logoColor=white" height=27 target="_blank"></a>
-<a href="mailto:superbahbi@gmail.com"><img src="https://img.shields.io/badge/superbahbi@gmail.com-3C005A?style=for-the-badge&logo=gmail&logoColor=white" height=27 target="_blank"></a>
-<a href="https://www.linkedin.com/in/robertleekugler/"><img src="https://img.shields.io/badge/robertleekugler-3C005A?style=for-the-badge&logo=linkedin&logoColor=white_" height=27 target="_blank"></a>
-<a href="https://user.fm/files/v2-300f28f8385972fb6f887614d0c6ec72/Robert_Kugler%20IV_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-3C005A?style=for-the-badge&logo=googledrive&logoColor=white" height=27 target="_blank"></a>
+<a href="https://twitter.com/bahbilee"><img src="https://img.shields.io/badge/@bahbilee-326789?&style=for-the-badge&logo=twitter&logoColor=white" height=27 target="_blank"></a>
+<a href="mailto:superbahbi@gmail.com"><img src="https://img.shields.io/badge/superbahbi@gmail.com-326789?style=for-the-badge&logo=gmail&logoColor=white" height=27 target="_blank"></a>
+<a href="https://www.linkedin.com/in/robertleekugler/"><img src="https://img.shields.io/badge/robertleekugler-326789?style=for-the-badge&logo=linkedin&logoColor=white_" height=27 target="_blank"></a>
+<a href="https://user.fm/files/v2-300f28f8385972fb6f887614d0c6ec72/Robert_Kugler%20IV_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-326789?style=for-the-badge&logo=googledrive&logoColor=white" height=27 target="_blank"></a>
 </p>
 
 
@@ -40,7 +40,7 @@ Hi there 👋<br>
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://twitter.bahbi.net" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
          <p><strong>React, CSS3, HTML5</strong> — A twitter clone built in reactjs framework using mongodb database and cloudinary storage.</p>
@@ -60,7 +60,7 @@ Hi there 👋<br>
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://twitter-clone-server2.herokuapp.com" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
          <p><strong>Nodejs</strong> — A backend service for twitter clone web and app, written in nodejs, expressjs, mongodb.</p>
@@ -81,7 +81,7 @@ Hi there 👋<br>
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://twitter.bahbi.net" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
          <p><strong>React Native</strong> — A twitter clone built in react native framework using mongodb database and cloudinary storage.</p>
@@ -101,7 +101,7 @@ Hi there 👋<br>
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
          <p><strong>React Native</strong> — A wine flash store built in react native framework using firebase auth, real time database, and storage.</p>
@@ -122,7 +122,7 @@ Hi there 👋<br>
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://wordle.bahbi.net" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
          <p><strong>Reactjs</strong> — A worlde clone built in react framework.</p>
@@ -142,7 +142,7 @@ Hi there 👋<br>
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://memory.bahbi.net" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
          <p><strong>Reactjs</strong> — A game built in reactjs. Match and win the game.</p>
@@ -163,7 +163,7 @@ Hi there 👋<br>
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://playlistify.bahbi.net" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
          <p><strong>Reactjs</strong> — A spotify app built in react framework.</p>
@@ -184,7 +184,7 @@ Hi there 👋<br>
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://bahbi.net" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
          <p><strong>Reactjs</strong> — portfolio.</p>
@@ -199,27 +199,27 @@ Hi there 👋<br>
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=superbahbi&hide_border=true&background=FFFFFF00&fire=e25822&currStreakLabel=999c9e&ring=9b69b4&currStreakNum=999c9e&sideNums=9b69b4&sideLabels=999c9e&dates=999c9e&stroke=9b69b4">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=superbahbi&hide_border=true&background=FFFFFF00&fire=e25822&currStreakLabel=999c9e&ring=78a6c8&currStreakNum=999c9e&sideNums=78a6c8&sideLabels=999c9e&dates=999c9e&stroke=78a6c8">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=superbahbi&bg_color=FFFFFF00&hide_border=true&text_color=999c9e&title_color=9b69b4&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=superbahbi&bg_color=FFFFFF00&hide_border=true&text_color=999c9e&title_color=78a6c8&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=999c9e&line=9b69b4&point=9b69b4&hide_border=true&title_color=999c9e">
+<img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=999c9e&line=78a6c8&point=78a6c8&hide_border=true&title_color=999c9e">
 
   
  <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Technical Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-3C005A?style=for-the-badge&logo=html5&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/CSS3-3C005A?style=for-the-badge&logo=css3&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/JavaScript-3C005A?style=for-the-badge&logo=javascript&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/Node.js-3C005A?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/Express.js-3C005A?style=for-the-badge&logo=express&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/React.js-3C005A?style=for-the-badge&logo=react&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/MongoDB-3C005A?style=for-the-badge&logo=mongodb&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/Firebase-3C005A?style=for-the-badge&logo=firebase&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/GIT-3C005A?style=for-the-badge&logo=git&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/HTML5-326789?style=for-the-badge&logo=html5&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/CSS3-326789?style=for-the-badge&logo=css3&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/JavaScript-326789?style=for-the-badge&logo=javascript&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Node.js-326789?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Express.js-326789?style=for-the-badge&logo=express&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/React.js-326789?style=for-the-badge&logo=react&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/MongoDB-326789?style=for-the-badge&logo=mongodb&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Firebase-326789?style=for-the-badge&logo=firebase&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/GIT-326789?style=for-the-badge&logo=git&logoColor=white" height=30>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=superbahbi&label=Profile%20views&color=3C005A&style=for-the-badge&logo=profile&logoColor=white_" alt="superbahbi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=superbahbi&label=Profile%20views&color=326789&style=for-the-badge&logo=profile&logoColor=white_" alt="superbahbi" /> </p>
 
