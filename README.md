@@ -1,8 +1,5 @@
-<img src="https://user-images.githubusercontent.com/1689092/173734806-8e26f485-3c95-4de4-a5d9-f059f2c793db.gif"/>
+<img src="https://user-images.githubusercontent.com/1689092/174507770-e20c5fa2-a696-4878-9970-457c576d1caa.gif"/>
 <br>
-
-
-
 
 
 Hi there 👋<br>
