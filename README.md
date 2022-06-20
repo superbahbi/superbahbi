@@ -1,14 +1,14 @@
 <img src="https://user-images.githubusercontent.com/1689092/174507770-e20c5fa2-a696-4878-9970-457c576d1caa.gif"/>
 <br>
 
-
+<p align="center">
 Hi there 👋<br>
 💻 I'm Robert Kugler, an aspiring full stack web developer<br>
 🔭 I’m currently working in the wine industry as Cellar Master in San Luis Obispo<br>
 🌱 I’m currently learning Typescript, React, and React Native<br>
 🌐 You can see my some of my projects on [my portfolio](https://github.com/superbahbi?tab=repositories)<br>
 📫 You can reach me using the links below.<br>
-
+</p>
 
 
 <br>
