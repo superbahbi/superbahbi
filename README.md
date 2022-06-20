@@ -31,7 +31,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Twitter Clone Web</h3>
       <div align="center">  
          <a href='https://twitter.bahbi.net' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/1689092/172078710-fe2bd8e0-4aac-4324-889c-3a120bc48aa2.jpg" alt="Twitter Clone" width="80%"/>
+            <img src="https://user-images.githubusercontent.com/1689092/174507615-c3e32cc7-34dd-4ad1-ad59-07b5fca82efc.jpg" alt="Twitter Clone Web" width="80%"/>
          </a>
          <br>
          <br>
@@ -51,7 +51,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Twitter Clone Server</h3>
       <div align="center">  
          <a href="https://github.com/superbahbi/twitter-clone-server" target=_"blank">
-            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-server" alt="Twitter Clone Server" width="80%"/>
+            <img src="https://user-images.githubusercontent.com/1689092/174507577-a0b1ba61-b349-4b7b-be10-629be117b117.jpg" alt="Twitter Clone Server" width="80%"/>
          </a>
          <br>
          <br>
@@ -72,7 +72,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Twitter Clone App</h3>
       <div align="center">  
          <a href='' target=_"blank">
-            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/twitter-clone-app" alt="Twitter Clone" width="80%"/>
+            <img src="https://user-images.githubusercontent.com/1689092/174507567-463cbfab-94bd-459a-ad8e-d2ad5deb930f.jpg" alt="Twitter Clone" width="80%"/>
          </a>
          <br>
          <br>
@@ -92,7 +92,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Corkify</h3>
       <div align="center">  
          <a href="https://github.com/superbahbi/Corkify" target=_"blank">
-            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/corkify" alt="Corkify" width="80%"/>
+            <img src="https://user-images.githubusercontent.com/1689092/174507646-3bb61a71-d348-49d8-8dd4-8ffc549b1af4.jpg" alt="Corkify" width="80%"/>
          </a>
          <br>
          <br>
@@ -151,10 +151,10 @@ Hi there 👋<br>
    </tr>
          <tr>
    <td width="50%">
-      <h3 align="center" color="white">Playlistify</h3>
+      <h3 align="center" color="white">Discoverify</h3>
       <div align="center">  
          <a href='https://playlistify.bahbi.net' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/1689092/172082897-a9f5b0b4-a0f8-4562-a077-2e08bf62ea86.jpg" alt="playlistify" width="80%"/>
+            <img src="https://user-images.githubusercontent.com/1689092/172082897-a9f5b0b4-a0f8-4562-a077-2e08bf62ea86.jpg" alt="discoverify" width="80%"/>
          </a>
          <br>
          <br>
@@ -175,7 +175,7 @@ Hi there 👋<br>
       <h3 align="center" color="white">Portfolio</h3>
       <div align="center">  
          <a href="https://github.com/superbahbi/portfolio" target=_"blank">
-            <img src="https://opengraph.githubassets.com/ed0f338ae724314eafdf74b09b609e5fcf7dd2d05c959c5be69d6771df281427/superbahbi/portfolio" alt="portfolio" width="80%"/>
+            <img src="https://user-images.githubusercontent.com/1689092/174507556-aaf24a3e-5f73-48c2-b6b2-7bf58321efea.jpg" alt="portfolio" width="80%"/>
          </a>
          <br>
          <br>
