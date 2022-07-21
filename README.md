@@ -18,7 +18,7 @@ Hi there 👋<br>
 <a href="https://user.fm/files/v2-62290ca2e7d396ecb25e45ca882087e9/Robert_Kugler_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-326789?style=for-the-badge&logo=googledrive&logoColor=white" height=27 target="_blank"></a>
 </p>
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Projects</h2>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/180127708-96a2c400-ac7a-47f8-989d-732c6061aa11.png" height=25px> Projects</h2>
 
 <table>
 <tr>
@@ -75,9 +75,6 @@ Hi there 👋<br>
             <a href="https://github.com/superbahbi/twitter-clone-app" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://twitter.bahbi.net" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
-            </a>
          </p>
          <p><strong>React Native</strong> — A twitter clone built in react native framework using mongodb database and cloudinary storage.</p>
       </div>
@@ -189,7 +186,7 @@ Hi there 👋<br>
 </table>
 
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Metrics & Analytics</h2>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/180127708-96a2c400-ac7a-47f8-989d-732c6061aa11.png" height=25px>   Metrics & Analytics</h2>
 <div align="center">
 <table>
 <tr>
@@ -203,7 +200,7 @@ Hi there 👋<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=999c9e&line=78a6c8&point=78a6c8&hide_border=true&title_color=999c9e">
 
   
- <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Technical Skills</h2>
+ <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/180127708-96a2c400-ac7a-47f8-989d-732c6061aa11.png" height=25px> Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-326789?style=for-the-badge&logo=html5&logoColor=white" height=30>
 <img src="https://img.shields.io/badge/CSS3-326789?style=for-the-badge&logo=css3&logoColor=white" height=30>
