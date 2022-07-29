@@ -45,13 +45,13 @@ Hi there 👋<br>
    <td width="50%">
       <h3 align="center" color="white">Twitter Clone Server</h3>
       <div align="center">  
-         <a href="https://github.com/superbahbi/twitter-clone-server" target=_"blank">
+         <a href="https://github.com/superbahbi/twitter-clone/server" target=_"blank">
             <img src="https://user-images.githubusercontent.com/1689092/174507577-a0b1ba61-b349-4b7b-be10-629be117b117.jpg" alt="Twitter Clone Server" width="80%"/>
          </a>
          <br>
          <br>
          <p>
-            <a href="https://github.com/superbahbi/twitter-clone-server" target="_blank">
+            <a href="https://github.com/superbahbi/twitter-clone/server" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://twitter-clone-server2.herokuapp.com" target="_blank">
