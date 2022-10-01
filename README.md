@@ -18,6 +18,8 @@ Hi there 👋<br>
 <a href="https://github.com/superbahbi/superbahbi/files/9622174/Robert_Kugler_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-326789?style=for-the-badge&logo=googledrive&logoColor=white" height=27 target="_blank"></a>
 </p>
 
+[![@superbahbi's Holopin board](https://holopin.io/api/user/board?user=superbahbi)](https://holopin.io/@superbahbi)
+
 <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/180127708-96a2c400-ac7a-47f8-989d-732c6061aa11.png" height=25px> Projects</h2>
 
 <table>
