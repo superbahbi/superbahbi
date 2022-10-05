@@ -147,7 +147,7 @@ Hi there 👋<br>
    <td width="50%">
       <h3 align="center" color="white">Discoverify</h3>
       <div align="center">  
-         <a href='https://playlistify.bahbi.net' target=_"blank">
+         <a href='https://discoverify.bahbi.net' target=_"blank">
             <img src="https://user-images.githubusercontent.com/1689092/172082897-a9f5b0b4-a0f8-4562-a077-2e08bf62ea86.jpg" alt="discoverify" width="80%"/>
          </a>
          <br>
