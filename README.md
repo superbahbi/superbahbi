@@ -153,10 +153,10 @@ Hi there 👋<br>
          <br>
          <br>
          <p>
-            <a href="https://github.com/superbahbi/playlistify" target="_blank">
+            <a href="https://github.com/superbahbi/discoverify" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://playlistify.bahbi.net" target="_blank">
+            <a href="https://discoverify.bahbi.net/" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=326789"/>
             </a>
          </p>
