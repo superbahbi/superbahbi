@@ -1,9 +1,8 @@
 <p align="center">
 Hi there 👋<br>
-💻 I'm Bahbi Lee, an aspiring full stack web developer<br>
-🔭 I’m currently working in the wine industry as Cellar Master in San Luis Obispo<br>
-🌱 I’m currently learning Typescript, React, and React Native<br>
-   🌐 You can see my some of my projects on <a href="https://github.com/superbahbi?tab=repositories">repositories</a><br>
+💻 I'm Bahbi Lee, a full stack web developer from San Luis Obispo, CA.<br>
+🌱 I’m currently learning Typescript, React, and React Native.<br>
+🌐 You can see my some of my projects on <a href="https://github.com/superbahbi?tab=repositories">repositories</a><br>
 📫 You can reach me using the links below.<br>
 </p>
 
