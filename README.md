@@ -10,7 +10,6 @@ Hi there 👋<br>
 <br>
 <p align="center">
 <a href="mailto:superbahbi@gmail.com"><img src="https://img.shields.io/badge/superbahbi@gmail.com-326789?style=for-the-badge&logo=gmail&logoColor=white" height=27 target="_blank"></a>
-<a href="https://www.linkedin.com/in/robertleekugler/"><img src="https://img.shields.io/badge/robertleekugler-326789?style=for-the-badge&logo=linkedin&logoColor=white_" height=27 target="_blank"></a>
 <a href="https://github.com/superbahbi/superbahbi/files/9622174/Robert_Kugler_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-326789?style=for-the-badge&logo=googledrive&logoColor=white" height=27 target="_blank"></a>
 </p>
 
