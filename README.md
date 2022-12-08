@@ -194,7 +194,7 @@ Hi there 👋<br>
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=superbahbi&bg_color=FFFFFF00&hide_border=true&text_color=999c9e&title_color=78a6c8&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=superbahbi&bg_color=FFFFFF00&color=999c9e&line=78a6c8&point=78a6c8&hide_border=true&title_color=999c9e">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=superbahbi&bg_color=FFFFFF00&color=999c9e&line=78a6c8&point=78a6c8&hide_border=true&title_color=999c9e">
 
   
  <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/180127708-96a2c400-ac7a-47f8-989d-732c6061aa11.png" height=25px> Technical Skills</h2>
