@@ -1,9 +1,15 @@
 <p align="center">
 Hi there 👋<br>
-💻 I'm Bahbi Lee, a full stack web developer from San Luis Obispo, CA.<br>
-🌱 I’m currently learning Typescript, React, and React Native.<br>
-🌐 You can see my some of my projects on <a href="https://github.com/superbahbi?tab=repositories">repositories</a><br>
-📫 You can reach me using the links below.<br>
+my name is Bobby Lee, and I'm a full-stack software
+engineer based in San Luis Obispo, California. I'm currently
+learning Typescript, React, and React Native, and am actively
+updating my GitHub repositories with the projects I'm developing.
+If you have any questions, feel free to reach out to me through
+the links provided below. I'm passionate about continuing to
+expand my knowledge and abilities in software engineering and am
+looking forward to the opportunities that I can provide for
+others.
+<br>
 </p>
 
 
