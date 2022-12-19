@@ -188,7 +188,7 @@ Hi there 👋<br>
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=superbahbi&hide_border=true&background=FFFFFF00&fire=e25822&currStreakLabel=999c9e&ring=78a6c8&currStreakNum=999c9e&sideNums=78a6c8&sideLabels=999c9e&dates=999c9e&stroke=78a6c8">
+<img src="https://streak-stats.demolab.com/?user=superbahbi&hide_border=true&background=FFFFFF00&fire=e25822&currStreakLabel=999c9e&ring=78a6c8&currStreakNum=999c9e&sideNums=78a6c8&sideLabels=999c9e&dates=999c9e&stroke=78a6c8">
 </td>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=superbahbi&bg_color=FFFFFF00&hide_border=true&text_color=999c9e&title_color=78a6c8&include_all_commits=true&count_private=true">
