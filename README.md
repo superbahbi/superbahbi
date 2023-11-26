@@ -21,8 +21,6 @@ others.
 
 [![@superbahbi's Holopin board](https://holopin.io/api/user/board?user=superbahbi)](https://holopin.io/@superbahbi)
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/180127708-96a2c400-ac7a-47f8-989d-732c6061aa11.png" height=25px> Projects</h2>
-
 <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/180127708-96a2c400-ac7a-47f8-989d-732c6061aa11.png" height=25px>   Metrics & Analytics</h2>
 <div align="center">
 <table>
