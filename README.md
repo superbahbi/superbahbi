@@ -1,6 +1,6 @@
 <p align="center">
 Hi there 👋<br>
-my name is Bobby Lee, and I'm a full-stack software
+my name is Robert Kugler, and I'm a full-stack software
 engineer based in San Luis Obispo, California. I'm currently
 learning Typescript, React, and React Native, and am actively
 updating my GitHub repositories with the projects I'm developing.
