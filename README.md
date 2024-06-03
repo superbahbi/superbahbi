@@ -34,19 +34,5 @@ others.
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=superbahbi&bg_color=FFFFFF00&color=999c9e&line=78a6c8&point=78a6c8&hide_border=true&title_color=999c9e">
 
-  
- <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/180127708-96a2c400-ac7a-47f8-989d-732c6061aa11.png" height=25px> Technical Skills</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-326789?style=for-the-badge&logo=html5&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/CSS3-326789?style=for-the-badge&logo=css3&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/JavaScript-326789?style=for-the-badge&logo=javascript&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/Node.js-326789?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/Express.js-326789?style=for-the-badge&logo=express&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/React.js-326789?style=for-the-badge&logo=react&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/MongoDB-326789?style=for-the-badge&logo=mongodb&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/Firebase-326789?style=for-the-badge&logo=firebase&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/GIT-326789?style=for-the-badge&logo=git&logoColor=white" height=30>
-</p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=superbahbi&label=Profile%20views&color=326789&style=for-the-badge&logo=profile&logoColor=white_" alt="superbahbi" /> </p>
 
