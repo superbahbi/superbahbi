@@ -15,9 +15,9 @@ others.
 
 <be>
 <p align="center">
-  <a href="https://dub.sh/rkrs/" target="_blank" style="padding: 10px 10px;">Resume</a>
-  <a href="https://dub.sh/rkpf/" target="_blank" style="padding: 10px 10px;">Portfolio</a>
-  <a href="https://dub.sh/rkcal/" target="_blank" style="padding: 10px 10px;">Book a Call</a>
+  <a href="https://dub.sh/rkrs/" target="_blank" style="padding: 10px 10px">Resume</a>
+  <a href="https://dub.sh/rkpf/" target="_blank" style="padding: 10px 10px">Portfolio</a>
+  <a href="https://dub.sh/rkcal/" target="_blank" style="padding: 10px 10px">Book a Call</a>
 </p>
 
 [![@superbahbi's Holopin board](https://holopin.io/api/user/board?user=superbahbi)](https://holopin.io/@superbahbi)
