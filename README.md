@@ -15,7 +15,7 @@ others.
 
 <br>
 <p align="center">
-<a href="[https://dub.sh/rkpf/](https://dub.sh/rkpf/)">Portfolio</a>
+<a href="https://dub.sh/rkpf/">Portfolio</a>
 </p>
 
 [![@superbahbi's Holopin board](https://holopin.io/api/user/board?user=superbahbi)](https://holopin.io/@superbahbi)
