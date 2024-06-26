@@ -16,11 +16,7 @@ others.
 <be>
 <p align="center">
 <a href="https://dub.sh/rkrs/" target="_blank">Resume</a>
-</p>
-<p align="center">
 <a href="https://dub.sh/rkpf/" target="_blank">Portfolio</a>
-</p>
-<p align="center">
 <a href="https://dub.sh/rkcal/" target="_blank">Book a Call</a>
 </p>
 
