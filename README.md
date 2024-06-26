@@ -13,9 +13,15 @@ others.
 </p>
 
 
-<br>
+<be>
+<p align="center">
+<a href="https://dub.sh/rkrs/">Resume</a>
+</p>
 <p align="center">
 <a href="https://dub.sh/rkpf/">Portfolio</a>
+</p>
+<p align="center">
+<a href="https://dub.sh/rkcal/">Book a Call</a>
 </p>
 
 [![@superbahbi's Holopin board](https://holopin.io/api/user/board?user=superbahbi)](https://holopin.io/@superbahbi)
