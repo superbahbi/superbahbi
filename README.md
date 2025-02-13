@@ -27,7 +27,6 @@ others.
 <table>
 <tr>
   
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=superbahbi" alt="GitHub Streak" /></a>
 <td width="50%">
   <img src="https://streak-stats.demolab.com/?user=superbahbi%20&hide_border=true&background=FFFFFF00&fire=e25822&currStreakLabel=999c9e&ring=78a6c8&currStreakNum=999c9e&sideNums=78a6c8&sideLabels=999c9e&dates=999c9e&stroke=78a6c8">
 </td>
